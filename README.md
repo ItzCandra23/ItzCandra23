@@ -3,7 +3,6 @@
 ## MyData
     {
       name: ItzCandra23,
-      age: 14,
       country: Indonesia,
       hobby: Programming,
       games: [ Minecraft, Valorant ],
