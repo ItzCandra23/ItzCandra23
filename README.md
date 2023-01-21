@@ -1,5 +1,4 @@
 # Welcome To My Github 😅
-![logo](https://nodejs.org/static/images/logo.svg) ![logo](https://github.com/bdsx/bdsx/blob/master/bdsx/images/icon.png)
 ## MyData
     {
       name: ItzCandra23,
