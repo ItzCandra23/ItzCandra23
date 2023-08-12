@@ -6,7 +6,7 @@
       hobby: Programming,
       games: [ Minecraft, Valorant ],
       youtube: ItzCandra23,
-      discord: ItzCandra23#8560,
+      discord: ItzCandra23#0001,
       languages: Node JS
     }
 ## Support Me
