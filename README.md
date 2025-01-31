@@ -30,8 +30,8 @@
 ## 📊 Most Languages I Used
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzCandra23&layout=donut&theme=dark)](https://github.com/ItzCandra23?tab=repositories)
 
-## 🔥 Github Streak
-[![Github Streak](https://streak-stats.demolab.com/?user=ItzCandra23&theme=dark)](https://github.com/ItzCandra23)
+<!-- - ## 🔥 Github Streak
+[![Github Streak](https://streak-stats.demolab.com/?user=ItzCandra23&theme=dark)](https://github.com/ItzCandra23) -->
 
 ## Contacts
 
